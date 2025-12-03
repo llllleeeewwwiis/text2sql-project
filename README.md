@@ -13,7 +13,7 @@ cd text2sql-project
 
 Download and unzip the Spider subset:
 
-[Download link](https://drive.usercontent.google.com/download?id=1403EGqzIDoHMdQFrh4c9Bkyl7dZLZ5Wt6J&export=download&authuser=0)
+[Download link](https://drive.google.com/file/d/1403EGqzIDoHMdQF4c9Bkyl7dZLZ5Wt6J/view)
 
 Make sure the unzipped folder structure is:
 
