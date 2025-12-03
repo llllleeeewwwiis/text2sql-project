@@ -34,7 +34,7 @@ Follow instructions to install Ollama and pull the Qwen 2.5-3B model:
 
 ```bash
 # Install Ollama (Mac)
-brew install ollama
+brew services start ollama
 
 # Pull the Qwen2.5-3B model
 ollama pull qwen-2.5-3b
